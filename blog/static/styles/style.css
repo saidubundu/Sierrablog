@@ -1,0 +1,27 @@
+body {
+  background-color: darkgrey !important;
+  height: 100%;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.card-group {
+  display: flex;
+}
+
+.staffs {
+  padding: 0.5rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+#footer-main {
+  background: #222;
+  color: #fff;
+  font-size: 0.8rem;
+  padding: 2.5rem;
+}
